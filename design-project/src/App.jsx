@@ -9,7 +9,7 @@ import Navbar from "./components/Navbar";
 import LocomotiveScroll from "locomotive-scroll";
 
 function App() {
-  const locomotiveScroll = new LocomotiveScroll();
+  new LocomotiveScroll();
 
   return (
     <div className="w-full min-h-screen bg-zinc-900 text-white">
