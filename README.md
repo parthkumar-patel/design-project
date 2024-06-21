@@ -1,7 +1,7 @@
 # Design Project
 
-Tried cloning some of the design features from the [ochi.design](https://ochi.design/) as a learning project.
-Below is the demo which can also be runned on your localhost with npm run dev.
+I attempted to replicate some of the design features from [ochi.design](https://ochi.design/) as a learning project. 
+Below is the demo, which can also be run locally using 'npm run dev'.
 
 
 
